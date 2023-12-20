@@ -7,7 +7,9 @@ html {
     font-family: sans-serif;
     background: linear-gradient(#141e30, #243b55);
   }
-  
+  h1 {
+      color: #fff;
+  }
   .login-box {
     position: absolute;
     top: 50%;
